@@ -30,5 +30,5 @@ Made with ❤
 By @GiovanaBorges.
 
 ## Project of
-** [Michele Brito]("https://github.com/MichelliBrito") **
+** [Michele Brito](https://github.com/MichelliBrito) **
 
