@@ -14,7 +14,7 @@
 	<name>ms-mail</name>
 	<description>sendEmail api</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>${java.version}</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
